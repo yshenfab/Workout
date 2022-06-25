@@ -9,7 +9,7 @@ Powerlifting (build strength) + street workout (cool skills)
 |---|---|
 |squat|120/140|
 |bench|85/100|
-|deadlift|130/150|
+|deadlift|145/150|
 
 ### Skills
 - [ x ] muscle up
@@ -23,7 +23,8 @@ Powerlifting (build strength) + street workout (cool skills)
 - Mon: squat 4x8, Romanian deadlift 3x8, leg press/Bulgarian one-leg squat 3x10, back hyperextension 3x12
 - Tue: bench 4x8, rowing 6x10, incline DB bench 3x12, chinups 4x8
 - Thu: deadlift 4x8, squat/front squat 4x8, hip thrust 3x10, back hyperextension 3x12
-- Fri: OHP 4x10, pullups 4x8, skull crusher 3x10, barbell curls 3x10, weighted dips 3x12, hammer curls 3x10
+<!-- - Fri: OHP 4x10, pullups 4x8, skull crusher 3x10, barbell curls 3x10, weighted dips 3x12, hammer curls 3x10 -->
+- Fri: pullups 6x8, OHP 4x8, rowing 4x10, DB lateral raises 3x12
 - Everyday: hanging leg raises 3x10, facepull 2x12
 
 ## Street Workout
@@ -92,4 +93,3 @@ Powerlifting (build strength) + street workout (cool skills)
 -   放松肩胛提肌
 -   牵拉斜角肌
 -   收下巴颈部后顶
-
