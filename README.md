@@ -5,11 +5,16 @@ Powerlifting (build strength) + street workout (cool skills)
 ## Goals
 
 ### Powerlifting
-|PR|current/goal (kg)|
+
+- [Taylor Atwood, 74kg](https://www.openpowerlifting.org/u/tayloratwood)
+- [Russel Orhii, 83kg](https://www.openpowerlifting.org/u/russelorhii)
+
+||PR (kg)|
 |---|---|
-|squat|120/140|
-|bench|85/100|
-|deadlift|145/150|
+|Squat|120|
+|Bench|90|
+|Deadlift|145|
+|Total|355|
 
 ### Skills
 - [ x ] muscle up
