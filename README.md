@@ -11,10 +11,14 @@ Powerlifting (build strength) + street workout (cool skills)
 
 ||PR (kg)|
 |---|---|
-|Squat|120|
-|Bench|90|
-|Deadlift|145|
-|Total|355|
+|Squat|130|
+|Bench|92.5|
+|Deadlift|150|
+|Total|372.5|
+
+<!-- |PR (kg)|Body Weight|Squat|Bench|Deadlift|Total| -->
+<!-- |---|---| -->
+<!-- |7/11/2022|75|130|92.5|150|372.5| -->
 
 ### Skills
 - [ x ] muscle up
