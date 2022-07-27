@@ -30,12 +30,12 @@ Powerlifting (build strength) + street workout (cool skills)
 ## 2022 Workout Routine (4 days/week)
 
 - Mon: squat 4x8 (or 5x5), Romanian deadlift 3x8, leg press/Bulgarian one-leg squat 3x10, back hyperextension 3x12
-- Tue: bench 4x8 (or 5x5), rowing 4x10, incline DB bench 3x10, pullups/chinups 4x8, DB lateral raises 3x12
+- Tue: bench 4x8 (or 5x5), rowing 4x10, OHP 4x8, chinups 4x8, DB lateral raises 3x12
 - Thu: deadlift 4x8 (or 3x5), squat 4x8, hip thrust 3x10, back hyperextension 3x12
 <!-- - Fri: OHP 4x10, pullups 4x8, skull crusher 3x10, barbell curls 3x10, weighted dips 3x12, hammer curls 3x10 -->
 <!-- - Fri: OHP 4x8, pullups 4x8, DB lateral raises 3x12, rowing 4x10 -->
-- Fri: bench 4x8 (or 5x5), rowing 4x10, OHP 4x8, pullups/chinups 4x8, DB lateral raises 3x12
-- Everyday: hanging leg raises 2x12, facepull 2x12
+- Fri: bench 4x8 (or 5x5), weighted pullups 3x5, explosive pullups 3x5, pullups 3x8
+- Everyday: hanging leg raises 2x12, plank 1min, facepull 2x12
 
 ## Street Workout
 
