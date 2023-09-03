@@ -28,8 +28,6 @@ PR (kg)
 - Mon: squat 4x8 (or 5x5), Romanian deadlift 3x8, leg press/Bulgarian one-leg squat 3x10, back hyperextension 3x12
 - Tue: bench 4x8 (or 5x5), rowing 4x10, OHP 4x8, chinups 4x8, DB lateral raises 3x12
 - Thu: deadlift 4x8 (or 3x5), squat 4x8, hip thrust 3x10, back hyperextension 3x12
-  <!-- - Fri: OHP 4x10, pullups 4x8, skull crusher 3x10, barbell curls 3x10, weighted dips 3x12, hammer curls 3x10 -->
-  <!-- - Fri: OHP 4x8, pullups 4x8, DB lateral raises 3x12, rowing 4x10 -->
 - Fri: bench 4x8 (or 5x5), weighted pullups 3x5, explosive pullups 3x5, pullups 3x8
 - Everyday: hanging leg raises 2x12, plank 1min, facepull 2x12
 
@@ -37,6 +35,31 @@ PR (kg)
       1. 基本上 4x8 和 5x5 每 3 个月交替一次，我现在 4x8 倾向于 4 组做 6-6-6-8 次。
       2. 渐进超负荷 (Progressive Overload)，每周 2-2.5kg 加重，月末一周做减载。
       3. 练的少休息好 > 练的多休息少。
+
+or
+
+- Mon: uppper body
+- Tue: lower body
+- Thu: core
+- Fri: uppper body
+
+## Core Training
+
+- 农夫行走
+- L-sit
+- 单手泡沫轴/篮球俯卧撑
+- 哑铃/绳索侧转身
+- 负重起坐
+- 负重早安式
+- 俯撑桥 抬异侧手脚
+- 侧撑桥 抬腿
+- 仰撑桥 抬异侧手脚
+- 仰卧屈膝+侧旋
+- 俯卧两头起
+- GHR 侧卧悬垂
+- 单臂举哑铃箭步蹲
+- 土耳其起立
+- dragon flag
 
 ## 体态矫正
 
